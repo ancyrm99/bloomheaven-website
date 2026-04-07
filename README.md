@@ -3,7 +3,8 @@ BloomHeaven is a modern flower shop website UI designed in Figma, focusing on el
 # 🌸 BloomHeaven – Flower Shop Website
 
 ## 🎨 Figma Design
-👉 [https://figma.com/your-link-here](https://www.figma.com/make/1AhrIJJAcd8fFOcOZPsstK/Website-with-Image-Highlights?fullscreen=1&t=dRv2rCApcoR831QE-1)
+👉 Website Design [https://digest-gum-22084317.figma.site/)
+👉Dashboard Design[https://visa-update-65705281.figma.site/)
 
 ## 📌 Project Overview
 BloomHeaven is a modern flower shop website UI designed with a clean and elegant user interface.
